@@ -87,14 +87,14 @@ Here are some projects that showcase my skills and passion for building impactfu
       </td>
     </tr>
     <tr>
-      <td>Camelpad - Secure Storage</td>
+      <td>Ecommerce - Full Stack</td>
       <td>
         A secure and scalable cloud-based application for organizing notes and ideas.<br>
         <strong>Key Features:</strong> Full CRUD functionality, secure user authentication with JWT, responsive UI.<br>
-        <strong>Tech Stack:</strong> ReactJS, Python, Superbase, MongoDB.
+        <strong>Tech Stack:</strong> EJS, MongoDB, NodeJS , Gemini API.
       </td>
       <td>
-        <a href="https://github.com/ayyappavenkatasurya/surya-camelpad" target="_blank">View Project</a>
+        <a href="https://github.com/ayyappavenkatasurya/surya-ecommerce" target="_blank">View Project</a>
       </td>
     </tr>
     <tr>
