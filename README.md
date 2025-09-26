@@ -94,7 +94,7 @@ Here are some projects that showcase my skills and passion for building impactfu
         <strong>Tech Stack:</strong> EJS, MongoDB, NodeJS , Gemini API.
       </td>
       <td>
-        <a href="https://github.com/ayyappavenkatasurya/surya-ecommerce" target="_blank">View Project</a>
+        <a href="https://github.com/ayyappavenkatasurya/miniappecom" target="_blank">View Project</a>
       </td>
     </tr>
     <tr>
